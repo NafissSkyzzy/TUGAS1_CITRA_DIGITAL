@@ -2,7 +2,9 @@
 
 ## Pembuktian bahwa Citra Digital Merupakan Susunan Angka Menggunakan Python
 
-**Mata kuliah:** Image Analysis\
+**Nama:** Muhammad Nafis Abdillah\
+**NIM:** 24260026\
+**Mata kuliah:** Pengolahan Citra Digital\
 **Bahasa pemrograman:** Python\
 **Library:** Pillow dan NumPy\
 **File yang dianalisis:** `gambar.jpg`
